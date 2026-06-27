@@ -1,0 +1,9 @@
+/[L]ibrary/
+/[L]ogs/
+/[U]serSettings/
+/[O]bj/
+/[B]uild/
+/[B]uilds/
+*.csproj
+*.sln
+*.suo

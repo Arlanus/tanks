@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itstart\\tanksV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F67B89-7E3F-5FAC-F45B-231E90A974E6}|Assembly-CSharp.csproj|C:\\Users\\itstart\\tanksV\\assets\\scripts\\menubot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F67B89-7E3F-5FAC-F45B-231E90A974E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menubot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F67B89-7E3F-5FAC-F45B-231E90A974E6}|Assembly-CSharp.csproj|C:\\Users\\itstart\\tanksV\\assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F67B89-7E3F-5FAC-F45B-231E90A974E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F67B89-7E3F-5FAC-F45B-231E90A974E6}|Assembly-CSharp.csproj|C:\\Users\\itstart\\tanksV\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F67B89-7E3F-5FAC-F45B-231E90A974E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F67B89-7E3F-5FAC-F45B-231E90A974E6}|Assembly-CSharp.csproj|c:\\users\\itstart\\tanksv\\assets\\scripts\\destroytimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F67B89-7E3F-5FAC-F45B-231E90A974E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroytimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F67B89-7E3F-5FAC-F45B-231E90A974E6}|Assembly-CSharp.csproj|c:\\users\\itstart\\tanksv\\assets\\scripts\\tanktrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F67B89-7E3F-5FAC-F45B-231E90A974E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tanktrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F67B89-7E3F-5FAC-F45B-231E90A974E6}|Assembly-CSharp.csproj|C:\\Users\\itstart\\tanksV\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F67B89-7E3F-5FAC-F45B-231E90A974E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F67B89-7E3F-5FAC-F45B-231E90A974E6}|Assembly-CSharp.csproj|C:\\Users\\itstart\\tanksV\\assets\\scripts\\scenechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F67B89-7E3F-5FAC-F45B-231E90A974E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TankTrail.cs",
+              "DocumentMoniker": "C:\\Users\\itstart\\tanksV\\Assets\\Scripts\\TankTrail.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TankTrail.cs",
+              "ToolTip": "C:\\Users\\itstart\\tanksV\\Assets\\Scripts\\TankTrail.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TankTrail.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T12:33:36.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DestroyTimer.cs",
+              "DocumentMoniker": "C:\\Users\\itstart\\tanksV\\Assets\\Scripts\\DestroyTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyTimer.cs",
+              "ToolTip": "C:\\Users\\itstart\\tanksV\\Assets\\Scripts\\DestroyTimer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyTimer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T12:30:38.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\itstart\\tanksV\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\itstart\\tanksV\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T12:11:45.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\itstart\\tanksV\\Assets\\Scripts\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health.cs",
+              "ToolTip": "C:\\Users\\itstart\\tanksV\\Assets\\Scripts\\Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T11:32:33.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuBot.cs",
+              "DocumentMoniker": "C:\\Users\\itstart\\tanksV\\Assets\\Scripts\\MenuBot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuBot.cs",
+              "ToolTip": "C:\\Users\\itstart\\tanksV\\Assets\\Scripts\\MenuBot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuBot.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T11:10:52.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "C:\\Users\\itstart\\tanksV\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManager.cs",
+              "ToolTip": "C:\\Users\\itstart\\tanksV\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T11:05:52.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SceneChange.cs",
+              "DocumentMoniker": "C:\\Users\\itstart\\tanksV\\Assets\\Scripts\\SceneChange.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneChange.cs",
+              "ToolTip": "C:\\Users\\itstart\\tanksV\\Assets\\Scripts\\SceneChange.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneChange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T10:39:12.509Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
