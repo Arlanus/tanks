@@ -1,0 +1,12 @@
+/[L]ibrary/
+/[L]ogs/
+/[U]serSettings/
+/[O]bj/
+/[B]uild/
+/[B]uilds/
+/DerivedData/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
