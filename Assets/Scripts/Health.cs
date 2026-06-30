@@ -5,7 +5,7 @@ using System.Collections;
 public class Health : MonoBehaviour
 {
     public int maxHealth = 1;
-    private int currentHealth;
+    public int currentHealth;
 
     public GameObject explosionPrefab;
     public string loseSceneName = "LoseScene";
@@ -27,6 +27,7 @@ public class Health : MonoBehaviour
         if (isDead) return;
 
         currentHealth -= damage;
+        if (currentHealth < 0) currentHealth = 0;
 
         if (currentHealth <= 0)
         {

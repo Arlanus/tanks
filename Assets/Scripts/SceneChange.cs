@@ -24,6 +24,19 @@ public class GameOverMenu : MonoBehaviour
     {
         SceneManager.LoadScene("Level2");
     }
+
+    public void ChooseLevel()
+    {
+        SceneManager.LoadScene("LevelsScene");
+    }
+    public void GoToLvl1()
+    {
+        SceneManager.LoadScene("Level1");
+    }
+    public void GoToLvl2()
+    {
+        SceneManager.LoadScene("Level2");
+    }
     public void Quit()
     {
         Application.Quit();
