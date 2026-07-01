@@ -3094,7 +3094,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: -1
   m_MaskInteraction: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -3378,8 +3378,8 @@ Transform:
   m_GameObject: {fileID: 769481189}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.24, y: -0.33613, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -2.38, y: -0.33613, z: 0}
+  m_LocalScale: {x: 1.0378125, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 242597824}
@@ -5238,7 +5238,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_MaskInteraction: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -7630,7 +7630,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_MaskInteraction: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -7652,7 +7652,7 @@ Transform:
   m_GameObject: {fileID: 1538618180}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0.7072663, w: 0.7069473}
-  m_LocalPosition: {x: 10.05, y: -0.58, z: 0}
+  m_LocalPosition: {x: 10.79, y: -0.58, z: 0}
   m_LocalScale: {x: 10.712999, y: 0.68749994, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8600,7 +8600,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_MaskInteraction: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -8622,7 +8622,7 @@ Transform:
   m_GameObject: {fileID: 1674583082}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0.7072663, w: 0.7069473}
-  m_LocalPosition: {x: -12.57, y: -0.57, z: 0}
+  m_LocalPosition: {x: -13.38, y: -0.57, z: 0}
   m_LocalScale: {x: 10.712999, y: 0.68749994, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11230,7 +11230,7 @@ MonoBehaviour:
   maxHealth: 3
   currentHealth: 0
   explosionPrefab: {fileID: 51289800751598912, guid: 90c695f25f5fa9c4898e2179101a6c77, type: 3}
-  loseSceneName: FinalScene
+  loseSceneName: GameOver
 --- !u!1 &2100836889
 GameObject:
   m_ObjectHideFlags: 0

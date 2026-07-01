@@ -172,9 +172,31 @@ public class EnemyAI : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (!canSeePlayer)
+        if (UnityEngine.SceneManagement.SceneManager.GetActiveScene().name == "MainMenu")
         {
-            ChooseRandomDirection(true);
+            // Если врезались в стену или препятствие
+            if (collision.gameObject.CompareTag("Obstacle") || collision.gameObject.name.Contains("Wall"))
+            {
+                // Вызываем ваш метод смены направления/разворота бота
+                ChooseRandomDirection();
+            }
+        }
+        if (collision.gameObject.CompareTag("Obstacle") || collision.gameObject.name.Contains("Wall"))
+        {
+            // Получаем точку контакта со стеной
+            ContactPoint2D contact = collision.contacts[0];
+
+            // Вычисляем нормаль (куда «смотрит» стена в точке удара)
+            Vector2 wallNormal = contact.normal;
+
+            // Вычисляем вектор отражения (как мячик отскакивает от стены)
+            Vector2 reflectDirection = Vector2.Reflect(moveDirection, wallNormal);
+
+            // Добавляем небольшую случайность, чтобы бот не циклился между двумя стенами
+            reflectDirection += new Vector2(Random.Range(-0.2f, 0.2f), Random.Range(-0.2f, 0.2f));
+
+            // Задаем новое безопасное направление, направленное ОТ угла
+            moveDirection = reflectDirection.normalized;
         }
     }
 }
